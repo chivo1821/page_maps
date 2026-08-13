@@ -1,4 +1,10 @@
 #map {
     height: 900px;
-    width: 100%;
+    width: 90%;
+}
+.h1{
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
